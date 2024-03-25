@@ -28,11 +28,7 @@ tags:
 
 ## ICS Y3 课程经验
 
-我主要分享三门我分数比较高的课的经验，其他课程我都七十多分左右就不再具体讲了：
-
-1. CAN201 (Introduction to Networking)： 88%
-2. INT201(Decision Computation and Language)： 82%
-3. CPT204 (Advanced OO Programming)： 100 %
+这里我主要分享三门我分数比较高的课的经验，其他课程我就不再具体讲了。
 
 ### CAN201 (Introduction to Networking) 
 
